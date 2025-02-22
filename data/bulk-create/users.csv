@@ -1,0 +1,3 @@
+FirstName,LastName,UserPrincipalName,SamAccountName,Password,OU
+John,Doe,john.doe@domain.com,jdoe,Password123,OU=Users,DC=domain,DC=com
+Alice,Smith,alice.smith@domain.com,asmith,Password123,OU=Users,DC=domain,DC=com
